@@ -8,7 +8,7 @@ Please review the [Code of Conduct](https://github.com/dy0gu/.github/blob/main/C
 
 See the [Support Guide](https://github.com/dy0gu/.github/blob/main/SUPPORT.md). In short, GitHub issues are not the appropriate place to debug your specific project or for general questions, but should be reserved for filing bugs and feature requests.
 
-### 🔒 Reporting Security Issues
+## 🔒 Reporting Security Issues
 
 Review the [Security Policy](https://github.com/dy0gu/.github/blob/main/SECURITY.md). **Do not** open a public issue for security vulnerabilities.
 

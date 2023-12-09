@@ -1,9 +1,7 @@
-# Reporting Vulnerabilities 🔒
+# Reporting 🔒
 
-Efforts to responsibly disclose vulnerability findings are highly appreciated.
+Efforts to responsibly report security vulnerabilities are highly appreciated.
 
-To report a security problem, please use the GitHub Security Advisory, **do not open a public issue**.
-
-For extremely urgent cases reach out to [email@dy0gu.com](mailto:email@dy0gu.com) for the fastest response.
+To disclose a security problem, please make a private vulnerability report, **do not open a public issue**.
 
 A response will be sent, indicating the next steps, after the initial report handling.

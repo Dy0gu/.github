@@ -4,15 +4,15 @@
 
 Please review the [Code of Conduct](https://github.com/dy0gu/.github/blob/main/CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone.
 
-## 🆘Asking Questions
+## 🆘 Questions
 
-See the [Support Guide](https://github.com/dy0gu/.github/blob/main/SUPPORT.md). In short, GitHub issues are not the appropriate place to debug your specific project or for general questions, but should be reserved for filing bugs and feature requests.
+See the [Support Guide](https://github.com/dy0gu/.github/blob/main/SUPPORT.md). In short, GitHub issues are not the appropriate place to debug your specific project or for general questions, instead it should be reserved for filing bugs and feature requests.
 
-## 🔒 Reporting Security Issues
+## 🔒 Security
 
 Review the [Security Policy](https://github.com/dy0gu/.github/blob/main/SECURITY.md). **Do not** open a public issue for security vulnerabilities.
 
-## 📥 Opening an Issue
+## 📥 Issues
 
 Before creating an issue, check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
 
@@ -21,7 +21,7 @@ Use a **clear, short and descriptive title**.
 
 If creating a bug report, include as many details as possible: version, environment, etc. Also include steps to reproduce the bug if you can.
 
-## 🔁 Submitting Pull Requests
+## 🔁 Pull Requests
 
 Before forking and creating a pull request for non-trivial changes you should open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments of an existing issue, depending on if one exists already or not.
 
@@ -31,7 +31,7 @@ Use a **clear, short and descriptive title** that resembles the issue title it r
 
 All contributions will be licensed under the project's license.
 
-## 📝 Writing Commit Messages
+## 📝 Commit Messages
 
 Please write a great commit message.
 
@@ -43,7 +43,7 @@ Please write a great commit message.
 6. Wrap the body at about 72 characters
 7. Use the body to explain **why**, *not what and how* (the code shows that!)
 
-## ✅ Code Review
+## ✅ Code Reviews
 
 - **Review the code, not the author.** Look for and suggest improvements without disparaging or insulting the author. Provide actionable feedback and explain your reasoning.
 - **You are not your code.** When your code is critiqued, questioned, or constructively criticized, remember that you are not your code. Do not take code review personally.
@@ -61,7 +61,7 @@ When possible, style and format will be enforced with a linter.
 
 By making a contribution to this project, I certify that:
 
-> 1. The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
-> 2. The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
-> 3. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
-> 4. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
+1. The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
+2. The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
+3. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
+4. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
